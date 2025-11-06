@@ -84,11 +84,11 @@ This is a living framework. Contributions, suggestions, and real-world adaptatio
 
 ## License
 
-[Add your chosen license here - e.g., MIT, Apache 2.0, CC BY 4.0]
+[Apache 2.0]
 
 ## Maintainer
 
-[Your Name/Organization]  
+[Rachel Brown/LabzOrg]  
 Product Manager | AI-Native Product Development
 
 ## Acknowledgments
