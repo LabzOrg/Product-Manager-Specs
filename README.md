@@ -8,7 +8,7 @@ This repository contains the definitive meta rules and specifications for operat
 
 ## What's Inside
 
-The **AI Native Product Manager Meta Rules** provide a complete operational framework covering:
+The **AI Native Product Manager Rules** provide a complete operational framework covering:
 
 - **Backlog & Requirements Management** - GitHub Issues integration, labeling strategies, and tracking
 - **Product Strategy & Roadmapping** - Vision statements, MVP planning, KPI definition
@@ -39,7 +39,7 @@ This framework is built on three foundational principles:
 
 ## How to Use
 
-These meta rules can be implemented in several ways:
+These rules can be implemented in several ways:
 
 1. **As System Prompts** - Use as foundational instructions for AI product management agents
 2. **As Process Guidelines** - Adapt sections for human PM workflows and team processes
