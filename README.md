@@ -1,4 +1,4 @@
-# AI Native Product Manager Meta Rules
+# AI Native Product Manager Rules
 
 A comprehensive framework for AI-powered product management in modern software development environments.
 
