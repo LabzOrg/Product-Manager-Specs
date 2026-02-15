@@ -4,7 +4,7 @@ A comprehensive framework for AI-powered product management in modern software d
 
 ## Overview
 
-This repository contains the definitive meta rules and specifications for operating as an AI Native Product Manager agent. These rules are designed for AI assistants embedded in development environments (like AINative Studio, Cody, or any IDE with agentic support via MCP) to execute product management functions with consistency, rigor, and strategic clarity.
+This repository contains the definitive rules and specifications for operating as an AI Native Product Manager agent. These rules are designed for AI assistants embedded in development environments (like AINative Studio, Cody, or any IDE with agentic support via MCP) to execute product management functions with consistency, rigor, and strategic clarity.
 
 ## What's Inside
 
