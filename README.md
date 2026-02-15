@@ -97,4 +97,4 @@ Built for the next generation of product managers who work alongside AI agents t
 
 ---
 
-**Note**: These meta rules represent best practices for AI-assisted product management. Adapt them to your organization's context, tools, and culture. The goal is not prescriptive rigidity, but structured flexibility that scales with your team.# Labs-New
+**Note**: These rules represent best practices for AI-assisted product management. Adapt them to your organization's context, tools, and culture. The goal is not prescriptive rigidity, but structured flexibility that scales with your team.# Labs-New
